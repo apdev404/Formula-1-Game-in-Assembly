@@ -12,11 +12,10 @@
         <li>Controles</li>
         <img src="https://drive.google.com/uc?export=view&id=11wYnjCtes36pubH1wkJDeHZSCqNapHkK" alt="" width="600">
         <li>Capturas del juego></li>
-            <ul>
+            <ul style="list-style-type: none;">
                 <li><img src="https://drive.google.com/uc?export=view&id=1u4vjpq6_ENLXrCiw00eOjw8SpDg49ufJ" alt="" width="600"></li>
                 <li><img src="https://drive.google.com/uc?export=view&id=13Zwjpw3BJrD9v5sow-liUqVr3acR3ntY" alt="" width="600"></li>
                 <li><img src="https://drive.google.com/uc?export=view&id=1ykJc3vl8CZm_StknLC_Px35bo53-gM0L" alt="" width="600"></li>
                 <li><img src="https://drive.google.com/uc?export=view&id=1-Iiy-3mem3YwIM15CXAIfOhoQBS_07ei" alt="" width="600"></li>
             </ul>
-        
-</ul>
+    </ul>
