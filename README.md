@@ -4,5 +4,6 @@
         Los pasos para poder correr el juego son los siguientes:
     </h5>
     <ul>
-        <li>Paso 1: <img url="https://drive.google.com/file/d/1rrP5hgmVnppwX-pc5HypiYeRAdoEiYyU/view?usp=sharing" alt=""></li>
-    </ul>
+        <li>Paso 1: <img src="https://drive.google.com/uc?export=view&id=1rrP5hgmVnppwX-pc5HypiYeRAdoEiYyU" alt=""></li>
+    
+</ul>
